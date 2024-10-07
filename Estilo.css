@@ -1,0 +1,49 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+    background-color: #f67cc7;
+    color: white;
+    padding: 15px;
+}
+
+/* Títulos */
+h1, h2, h5 {
+    margin-bottom: 20px;
+}
+
+/* Tarjetas de productos */
+.product-card {
+    margin-bottom: 20px;
+}
+
+/* Estilos de imagenes */
+.horizontal {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.vertical {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Chatbot */
+#chatbot {
+    background-color: #f8f9fa;
+    height: 150px;
+    overflow-y: auto;
+}
+
+/* Footer */
+footer {
+    background-color: #f179f3;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+}
